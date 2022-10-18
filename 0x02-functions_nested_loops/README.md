@@ -1,1 +1,1 @@
-0x02-functions_nested_loops
+Readme for 0x02 project folder
